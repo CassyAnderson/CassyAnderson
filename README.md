@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Cassy :smile_cat:
 
 - 🔭 I’m currently working on mastering Java for the Java 11 Developer Certificate  =] 
 - 🌱 I’m currently refreshing on Databases & Algorithms & SQL.  
