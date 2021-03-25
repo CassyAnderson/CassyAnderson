@@ -1,11 +1,6 @@
 ### Hi there 👋
 
-<!--
-**CassyAnderson/CassyAnderson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on mastering Java for the Java 11 Developer Certificate :) 
+##- 🔭 I’m currently working on mastering Java for the Java 11 Developer Certificate :) 
 - 🌱 I’m currently refreshing on Databases & Algorithms & SQL  
 - 👯 I’m looking to collaborate on any Open Source Java projects
 - 🤔 I’m looking for help with mastering all things
