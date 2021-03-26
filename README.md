@@ -1,5 +1,5 @@
-<h1 align="right">Hi 👋, I'm Cassy 😸</h1>
-<h3 align="right">An enthusiasts of bridging the gaps between people and software.</h3>
+<h1 align="left">Hi 👋, I'm Cassy 😸</h1>
+<h3 align="left">An enthusiasts of bridging the gaps between people and software.</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=cassyanderson&label=Profile%20views&color=0e75b6&style=flat" alt="cassyanderson" /> </p>
 
@@ -17,8 +17,8 @@
 
 - ⚡ Fun fact **I have 4 cats! Milkshakes, Kenneth, Fireball and Smokey Jo.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="right">Connect with me:</h3>
+<p align="right">
 <a href="https://linkedin.com/in/cassandraanderson123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="cassandraanderson123" height="30" width="40" /></a>
 </p>
 
