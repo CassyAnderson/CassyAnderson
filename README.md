@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cassy 😸</h1>
 <h3 align="center">An enthusiasts of bridging the gaps between people and software.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cassyanderson&label=Profile%20views&color=0e75b6&style=flat" alt="cassyanderson" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cassyanderson" alt="cassyanderson" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=cassyanderson&label=Profile%20views&color=0e75b6&style=flat" alt="cassyanderson" /> </p>
 
 - 🔭 I’m currently working on **Java for the Java 11 Developer Certificate =]**
 
