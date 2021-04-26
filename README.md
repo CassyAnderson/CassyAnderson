@@ -3,9 +3,9 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=cassyanderson&label=Profile%20views&color=0e75b6&style=flat" alt="cassyanderson" /> </p>
 
-- 🔭 I’m currently working on **Java for the Java 11 Developer Certificate =]**
+- 🔭 I’m currently working on **Developing & Designing a website for a non-profit cat shelter**
 
-- 🌱 I’m currently learning **deep dive into Databases & Algorithms & SQL.**
+- 🌱 I’m currently learning **Java Master Class on Udemy.**
 
 - 👯 I’m looking to collaborate on **any Open Source Java projects.**
 
