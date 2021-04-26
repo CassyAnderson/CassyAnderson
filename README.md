@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Developing & Designing a website for a non-profit cat shelter**
 
-- 🌱 I’m currently learning **Java Master Class on Udemy.**
+- 🌱 I’m currently learning **Java Master Class on Udemy & actively particpating in Stanford's Code in Place.**
 
 - 👯 I’m looking to collaborate on **any Open Source Java projects.**
 
