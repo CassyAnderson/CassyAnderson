@@ -1,4 +1,4 @@
-![](https://github.com/CassyAnderson/CassyAnderson/blob/main/githubbanner.png)
+![](https://github.com/CassyAnderson/CassyAnderson/blob/main/githubbanner(1).png)
 <h1 align="left">Hi 👋, I'm Cassy 😸</h1>
 <h3 align="left">An enthusiasts of bridging the gaps between people and software.</h3>
 
