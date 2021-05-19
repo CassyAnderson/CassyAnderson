@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **I have 4 cats! Milkshakes, Kenneth, Fireball and Smokey Jo.**
 
-<h3 align="right">Let's Connect!</h3>
-<p align="right">
-<a href="https://linkedin.com/in/cassandraanderson123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="cassandraanderson123" height="30" width="40" /></a>
+<h3 align="left">Let's Connect!</h3>
+<p align="left">
+Cassandra Anderson @cassandraanderson123
 </p>
