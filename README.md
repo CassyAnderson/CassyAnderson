@@ -6,17 +6,14 @@
 
 - 🌱 I’m currently learning **Java Master Class on Udemy & actively particpating in Stanford's Code in Place.**
 
-- 👯 I’m looking to collaborate on **any Open Source Java projects.**
+- 👯 I’m looking to collaborate on **any Open Source Java projects, or projects focused on fluid end user experience.**
 
-- 🤝 I’m looking for help with **mastering all things Java!**
+- 🤝 I’m looking for help with 
 
-- 💬 Ask me about **cats, anime, & Animal Crossing: New Horizons.**
+- 💬 Ask me about **cats, anime, & Animal Crossing: New Horizons, and Pokemon Snap.**
 
-- 📫 How to reach me **cassyanderson123@gmail.com**
+- 📫 How to reach me **cassyanderson123@gmail.com** & [@cassandraanderson123](https://www.linkedin.com/in/cassandraanderson123/)
 
 - ⚡ Fun fact **I have 4 cats! Milkshakes, Kenneth, Fireball and Smokey Jo.**
 
-<h3 align="left">Let's Connect!</h3>
-<p align="left">
-Cassandra Anderson @cassandraanderson123
 </p>
